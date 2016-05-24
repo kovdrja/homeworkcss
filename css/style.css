@@ -1,0 +1,64 @@
+#heading {
+    font-size: 54px;
+    color: yellow;
+    
+}
+h1:hover {
+    text-decoration: underline;
+} 
+body {
+  font-family:  'Lobster', cursive;
+}
+.animal {
+    color: red;
+}
+.wrap {
+    width: 960px;
+    margin: 2% auto;
+}
+
+.layer1 {
+    float: left;
+    background: gray;
+    border: 2px solid black; 
+    padding: 10px;
+    margin-right: 20px; 
+    width: 40%; 
+    
+}
+.layer2 {
+    float: right;
+    background: purple;
+    border: 2px solid black; 
+    padding: 10px;
+    margin-right: 20px; 
+    width: 50%; 
+    
+}
+.layer3 {
+    float: right;
+    background: olive;
+    border: 2px solid black; 
+    padding: 10px;
+    margin-right: 20px; 
+    width: 50%; 
+    
+}
+.layer4 {
+    float: right;
+    background: aqua;
+    border: 2px solid black; 
+    padding: 10px;
+    margin-right: 20px; 
+    width: 50%; 
+    
+}
+.layer5 {
+    float: left;
+    background: lime;
+    border: 2px solid black; 
+    padding: 10px;
+    margin-right: 20px; 
+    width: 40%; 
+    
+}
