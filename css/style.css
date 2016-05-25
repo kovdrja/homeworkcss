@@ -4,7 +4,7 @@
 #heading {
     font-size: 54px;
     color: yellow;
-    
+    text-align: center;
 }
 h1:hover {
     text-decoration: underline;
@@ -17,17 +17,15 @@ body {
 }
 .wrap {
     width: 960px;
-    margin: 2% auto;
+    margin: auto;
 }
-
 .layer1 {
     float: left;
     background: gray;
     border: 2px solid black; 
     padding: 10px;
     margin-right: 20px; 
-    width: 40%; 
-    
+    width: 40%;
 }
 .layer2 {
     float: right;
@@ -36,7 +34,6 @@ body {
     padding: 10px;
     margin-right: 20px; 
     width: 50%; 
-    
 }
 .layer3 {
     float: right;
@@ -45,7 +42,6 @@ body {
     padding: 10px;
     margin-right: 20px; 
     width: 50%; 
-    
 }
 .layer4 {
     float: right;
@@ -53,8 +49,7 @@ body {
     border: 2px solid black; 
     padding: 10px;
     margin-right: 20px; 
-    width: 50%; 
-    
+    width: 50%;
 }
 .layer5 {
     float: left;
@@ -63,5 +58,4 @@ body {
     padding: 10px;
     margin-right: 20px; 
     width: 40%; 
-    
 }
